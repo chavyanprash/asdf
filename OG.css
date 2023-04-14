@@ -1,0 +1,32 @@
+body{
+
+    background-color: azure;
+    text-align: center;
+}
+
+h1{
+    width: 15%;
+    margin: 0 auto 0 auto;
+    position: relative;
+    top: 200px;
+    
+}
+
+.smountain{
+    position: absolute;
+    left: 400px;
+    top: 250px;
+
+
+}
+
+.Cc1{
+    position: absolute;
+    right: 300px;
+    top: 100px;
+}
+
+.bmountain{
+    position: relative;
+    top: 220px;
+}
