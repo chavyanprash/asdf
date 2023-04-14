@@ -5,10 +5,12 @@ body{
 }
 
 h1{
+    font-family: papyrus, Verdana, Geneva, Tahoma, sans-serif;
     width: 15%;
     margin: 0 auto 0 auto;
     position: relative;
     top: 200px;
+    color: blueviolet;
     
 }
 
@@ -29,4 +31,12 @@ h1{
 .bmountain{
     position: relative;
     top: 220px;
+}
+
+.paraone{
+    position: relative;
+    padding: 20px;
+    font-size: 20px;
+    font-family: monospace;
+    color: brown;
 }
